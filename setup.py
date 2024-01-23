@@ -2,8 +2,8 @@ import setuptools
 
 setuptools.setup(
     include_package_data=True,
-    name="middleware_gen_ai",
+    name="test_middleware",
     version="0.0.1",
-    description="gen_ai middleware module",
+    description="middleware module",
     packages=setuptools.find_packages(),
 )
